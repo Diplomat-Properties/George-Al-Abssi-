@@ -40,7 +40,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:George Al Abssi 
 TITLE:Sales Manager
-ORG:RISE Properties
+ORG:Diplomat Properties
 TEL;TYPE=WORK,VOICE:+971557784300
 EMAIL:George_abssi@hotmail.com
 URL:http://www.dpdxb.com
